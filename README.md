@@ -49,11 +49,11 @@ elif b>c :
 else :
 	print (c)
 ````
-** hasil program :**
-````
+### hasil program :
+
 ![img]https://raw.githubusercontent.com/RAIS14/labpy1/master/hasil_program.png		
-````
-### Penjelasan program
+
+#### Penjelasan program
 
 ````
 input bilangan a=5
